@@ -11,6 +11,7 @@ Thumbs.db
 /build/
 /dist/
 /.cache/
+.next/
 .sass-cache/
 coverage/
 *.tmp
